@@ -1,2 +1,3 @@
-# ai-dataset-rust
-Create manually plenty of examples of Rust, trying to create a dataset for the AI.
+# AI Dataset | Rust
+
+Manually create a diverse set of Rust code examples to build a training dataset for an AI.
